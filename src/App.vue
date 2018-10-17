@@ -11,7 +11,7 @@
       </nav>
     </header>
     <main>
-      <robot-builder />
+      <router-view />
     </main>
   </div>
 </template>
